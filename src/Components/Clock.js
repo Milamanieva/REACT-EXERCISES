@@ -22,7 +22,7 @@ class Clock extends Component {
     render() {
         return (
         <div>
-            <h1>Clock</h1>
+            <h1>Clock-showing-time</h1>
             <h2>It is {this.state.time}.</h2>
         </div>
         )
